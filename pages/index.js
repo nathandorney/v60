@@ -1,4 +1,4 @@
-import Guide from "./components/Guide";
+import Guide from "../components/Guide";
 
 export default function Home() {
   return (
