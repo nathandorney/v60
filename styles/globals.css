@@ -57,7 +57,7 @@ h2 {
 }
 
 a {
-  color: inherit;
+  color: var(--grey-600);
   text-decoration: none;
 }
 p {

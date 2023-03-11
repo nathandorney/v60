@@ -6,6 +6,10 @@ export default function Home() {
       <div className="layout">
         <h1>V60 Recipe</h1>
         <Guide />
+
+        <a href="https://read.cv/nathan" className="note">
+          Made by @nathan
+        </a>
       </div>
     </>
   );
